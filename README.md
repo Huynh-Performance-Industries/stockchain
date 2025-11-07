@@ -1,2 +1,2 @@
 # stockchain
-Blockchain for stocks
+Blockchain-based synthetic equity prototype by Huynh Performance Industries
